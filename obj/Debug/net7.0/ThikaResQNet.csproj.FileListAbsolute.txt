@@ -1,0 +1,9 @@
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.csproj.AssemblyReference.cache
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.AssemblyInfo.cs
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DAVID\source\repos\Thika-ResQNet\ThikaResQNet\obj\Debug\net7.0\ThikaResQNet.sourcelink.json

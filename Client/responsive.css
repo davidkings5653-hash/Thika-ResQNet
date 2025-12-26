@@ -1,0 +1,42 @@
+/* Responsive helpers for ThikaResQNet client pages */
+
+/* Ensure touch-friendly buttons on small screens */
+@media (max-width: 767.98px) {
+  .btn {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    touch-action: manipulation;
+  }
+
+  /* Make form controls larger for touch */
+  .form-control, .form-select {
+    padding: 0.75rem 0.75rem;
+    font-size: 1rem;
+  }
+
+  /* Make table rows easier to tap */
+  .table tbody tr {
+    touch-action: manipulation;
+  }
+
+  /* Stack small card actions vertically */
+  .card .btn-group { flex-direction: column; }
+  .card .btn-group .btn { width: 100%; margin-bottom: 0.5rem; }
+}
+
+/* Make tables scrollable on very small devices */
+.table-responsive { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* Navbar tweaks for mobile */
+.navbar-brand { font-weight: 600; }
+
+/* Slight spacing for mobile containers */
+@media (max-width: 575.98px) {
+  .container { padding-left: 0.75rem; padding-right: 0.75rem; }
+}
+
+/* Highlight high severity cards on small screens more prominently */
+@media (max-width: 991.98px) {
+  .card.border-danger { border-width: 2px; }
+}
